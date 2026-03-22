@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👨‍💻 Maurício Maciel
 
-<!--
-**mmaciel04/mmaciel04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Infrastructure | Cloud (Azure) | DevOps | Automation**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Experiência com infraestrutura, suporte e ambientes críticos
+🔐 Background em Segurança da Informação
+🧪 Experiência com sistemas GxP em indústria farmacêutica
+
+Atualmente focado em **Cloud (Azure)**, **Infraestrutura como Código** e **automação de ambientes**, com evolução prática em **DevOps**.
+
+---
+
+## ⚙️ Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=azure,terraform,github,linux,bash,git" />
+</p>
+
+---
+
+## 📦 Projetos
+
+🔹 **azure-devops-lab**
+Provisionamento de VM no Azure + Nginx + automação inicial
+
+🔹 **azure-infra-terraform**
+Estrutura de infraestrutura com boas práticas (RG, VNet, NSG)
+
+🔹 **azure-ci-cd-pipeline**
+Pipeline automatizado com GitHub Actions
+
+🔹 **automation-scripts**
+Scripts para automação de tarefas operacionais
+
+---
