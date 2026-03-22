@@ -1,6 +1,6 @@
 # 👨‍💻 Maurício Maciel
 
-**Infrastructure | Cloud (Azure) | DevOps | Automation**
+**Cloud (Azure) | DevOps | IaC | CI/CD | Automation**
 
 ---
 
