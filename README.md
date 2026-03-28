@@ -1,7 +1,7 @@
 # 👨‍💻 Maurício Maciel
 
 
-**QA Automation | DevOps | Cloud (Azure) | CI/CD | Infrastructure as Code**
+**QA Automation | Test Automation | DevOps | Azure | CI/CD | Python**
 
 ---
 
@@ -16,10 +16,10 @@ Atualmente em transição estratégica para QA Automation, aplicando práticas d
 ## 📦 Projetos
 
 🔹 qa-automation-framework  
-Framework de testes automatizados com Pytest + Selenium/Playwright
+Framework de testes automatizados com Pytest para testes de API e UI, incluindo validação de status code, payload e automação end-to-end
 
 🔹 azure-devops-lab  
-Provisionamento de infraestrutura no Azure com Terraform + deploy de aplicação + testes automatizados
+Provisionamento de infraestrutura no Azure com Terraform, deploy de aplicação web e execução de testes automatizados para validação do ambiente
 
 🔹 azure-ci-cd-pipeline  
 Pipeline CI/CD com GitHub Actions incluindo etapa de testes automatizados
