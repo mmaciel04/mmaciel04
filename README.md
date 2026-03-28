@@ -1,35 +1,30 @@
 # 👨‍💻 Maurício Maciel
 
-**Cloud (Azure) | DevOps | IaC | CI/CD | Automation**
+
+**QA Automation | DevOps | Cloud (Azure) | CI/CD | Infrastructure as Code**
 
 ---
 
-Experiência com infraestrutura, suporte e ambientes críticos, com background em Segurança da Informação e atuação em sistemas GxP na indústria farmacêutica.
+Profissional de TI com mais de 10 anos de experiência em infraestrutura, suporte e ambientes críticos.
 
-Atualmente focado em **Cloud (Azure)**, **Infraestrutura como Código** e **automação de ambientes**, com evolução prática em **DevOps**.
+Atuação em sistemas regulados (GxP) na indústria farmacêutica, com foco em qualidade, rastreabilidade e confiabilidade.
 
----
-
-## ⚙️ Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=azure,terraform,github,linux,bash,git" />
-</p>
+Atualmente em transição estratégica para QA Automation, aplicando práticas de testes automatizados integrados a pipelines CI/CD, com forte base em Cloud (Azure) e Infraestrutura como Código (Terraform).
 
 ---
 
 ## 📦 Projetos
 
-🔹 **azure-devops-lab**
-Provisionamento de infraestrutura no Azure com Terraform + configuração de Nginx
+🔹 qa-automation-framework  
+Framework de testes automatizados com Pytest + Selenium/Playwright
 
-🔹 **azure-infra-terraform**
-Estrutura de infraestrutura com boas práticas (RG, VNet, NSG)
+🔹 azure-devops-lab  
+Provisionamento de infraestrutura no Azure com Terraform + deploy de aplicação + testes automatizados
 
-🔹 **azure-ci-cd-pipeline**
-Pipeline automatizado com GitHub Actions para build e deploy
+🔹 azure-ci-cd-pipeline  
+Pipeline CI/CD com GitHub Actions incluindo etapa de testes automatizados
 
-🔹 **automation-scripts**
-Scripts para automação de tarefas operacionais
+🔹 automation-scripts  
+Scripts Python para automação de tarefas operacionais e validações
 
 ---
